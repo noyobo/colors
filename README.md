@@ -1,6 +1,12 @@
 colors
 ======
 
+[![Build Status](https://travis-ci.org/noyobo/colors-little.svg)](https://travis-ci.org/noyobo/colors-little)
+[![npm version](http://img.shields.io/npm/v/colors-little.svg)](https://www.npmjs.org/package/colors-little)
+[![npm download](http://img.shields.io/npm/dm/colors-little.svg)](https://www.npmjs.org/package/colors-little)
+
+[![NPM](https://nodei.co/npm/colors-little.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/colors-little/)
+
 A mini colors tools
 
 ```javascript
