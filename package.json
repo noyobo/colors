@@ -1,0 +1,21 @@
+{
+  "name": "@nooybo/colors",
+  "version": "1.0.0",
+  "description": "A simple colors tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "colors"
+  ],
+  "engines": {
+    "node": ">=0.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noyobo/colors.git"
+  },
+  "author": "noyobo",
+  "license": "MIT"
+}
