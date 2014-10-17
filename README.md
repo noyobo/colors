@@ -1,11 +1,11 @@
 colors
 ======
 
-[![Build Status](https://travis-ci.org/noyobo/colors-little.svg)](https://travis-ci.org/noyobo/colors-little)
-[![npm version](http://img.shields.io/npm/v/colors-little.svg)](https://www.npmjs.org/package/colors-little)
-[![npm download](http://img.shields.io/npm/dm/colors-little.svg)](https://www.npmjs.org/package/colors-little)
+[![Build Status](https://travis-ci.org/noyobo/colors.svg?branch=master)](https://travis-ci.org/noyobo/colors)
+[![npm version](http://img.shields.io/npm/v/colors-mini.svg)](https://www.npmjs.org/package/colors-mini)
+[![npm download](http://img.shields.io/npm/dm/colors-mini.svg)](https://www.npmjs.org/package/colors-mini)
 
-[![NPM](https://nodei.co/npm/colors-little.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/colors-little/)
+[![NPM](https://nodei.co/npm/colors-mini.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/colors-mini/)
 
 A mini colors tools
 

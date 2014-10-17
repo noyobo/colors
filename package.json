@@ -1,12 +1,12 @@
 {
   "name": "colors-mini",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A mini colors tools",
   "main": "index.js",
   "scripts": {
     "test": "node test/test.js"
   },
-  "files":[
+  "files": [
     "index.js"
   ],
   "keywords": [
