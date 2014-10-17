@@ -1,7 +1,7 @@
 {
-  "name": "@nooybo/colors",
+  "name": "colors-mini",
   "version": "1.0.0",
-  "description": "A simple colors tools",
+  "description": "A mini colors tools",
   "main": "index.js",
   "scripts": {
     "test": "node test/test.js"
