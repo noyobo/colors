@@ -10,6 +10,8 @@ colors
 A mini colors tools
 
 ```javascript
+var colors = require('colors-mini')
+// api
 console.log(colors.white(37))
 console.log(colors.grey(90))
 console.log(colors.black(30))

@@ -1,5 +1,4 @@
 'use strict';
-
 var codes = {
   'white': 37,
   'grey': 90,
@@ -11,17 +10,13 @@ var codes = {
   'red': 31,
   'yellow': 33
 };
-
 function Render(code) {
   return function(s) {
     var a = '\x1B[' + code.toString() + 'm' + s + '\x1B[39m';
     return a;
   }
 };
-var colors = {}
-var keys = Object.keys(codes)
-for (var i = keys.length - 1; i >= 0; i--) {
-  var key = keys[i];
-  colors[key] = new Render(codes[key])
-};
-module.exports = colors;
+var colors = module.exports = {};
+Object.keys(codes).forEach(function(i){
+  colors[i] = new Render(codes[i])
+})
