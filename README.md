@@ -1,6 +1,8 @@
 colors
 ======
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/noyobo/colors.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/noyobo/colors.svg?branch=master)](https://travis-ci.org/noyobo/colors)
 [![npm version](http://img.shields.io/npm/v/colors-mini.svg)](https://www.npmjs.org/package/colors-mini)
 [![npm download](http://img.shields.io/npm/dm/colors-mini.svg)](https://www.npmjs.org/package/colors-mini)
